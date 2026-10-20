@@ -7,7 +7,7 @@ label = Label(window,
               font=("Arial",40,"bold"),
               fg="green",bg="black"
               relief=RAISED
-              
+              bd=10
               )
 label.pack()
 # label.place(x=100,y=100)
