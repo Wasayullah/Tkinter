@@ -1,1 +1,2 @@
-from tkinter
+from tkinter import *
+wind
