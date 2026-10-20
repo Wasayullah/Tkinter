@@ -1,7 +1,7 @@
 from tkinter import *
 window = Tk()
 window.geometry("200x200")
-label = Label(window,text="Hello World",font=("Arial",40))
+label = Label(window,text="Hello World",font=("Arial",40,"bol"))
 label.pack()
 # label.place(x=100,y=100)
 
