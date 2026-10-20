@@ -2,7 +2,8 @@ from tkinter import *
 window = Tk()
 
 window.title("Labels in Tkinter")
-label = Label(window,text="Hello World",font=("Arial",40,"bold"),fg="green",bg="black")
+label = Label(window,
+              text="Hello World",font=("Arial",40,"bold"),fg="green",bg="black")
 label.pack()
 # label.place(x=100,y=100)
 
