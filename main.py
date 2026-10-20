@@ -4,5 +4,6 @@ window.geometry("420x420")
 window.title("Mohammad First GUI ")
 icon = PhotoImage(file='logo.png')
 window.iconphoto(True,icon)
+
 window.mainloop()
 
