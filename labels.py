@@ -2,6 +2,6 @@ from tkinter import *
 window = Tk()
 window.geometry("420x420")
 label = Label(window,text="Hello World")
-label.pack()
+label.place
 
 window.mainloop()
