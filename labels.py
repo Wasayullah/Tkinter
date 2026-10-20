@@ -6,7 +6,7 @@ label = Label(window,
               text="Hello World",
               font=("Arial",40,"bold"),
               fg="green",bg="black",
-              relief=RAISED
+              relief=RAISED,
               bd=10
               )
 label.pack()
